@@ -2,3 +2,4 @@ a=1g0;
 new;
 b = 20; //nupur1
 c = 30 //nupur2
+d = 3//nupur
