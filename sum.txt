@@ -1,3 +1,4 @@
 a=10;
 new;
 b = 20; //nupur1
+c = 30 //nupur2
